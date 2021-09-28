@@ -1,9 +1,9 @@
 ---
 title: "Tilt Effect Using Tilt.js."
 path: blog/Tilt-Effect-Using-Tilt.js.
-tags: [javascript, html,css, tiltjs]
+tags: [javascript, html,css]
 date: 2021-09-28
-excerpt: Blogging and writing about tech stacks is always been my thing. I like to experiment with different technologies and write my views on them. Web technologies has always been my passion. Check my blog for codebits on various web technologies.
+excerpt: Easiest way to create tilt effect using tilt js.
 ---
 
 
