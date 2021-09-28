@@ -114,9 +114,3 @@ body {
 ```
 
 You don't need to write javascript we can just do it using css transform property only, and yeah you are done wasn't that very easy? comment now!.
-
-<p align="center">
-
-![image](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0078kp928zrg6rou0r0u.png)
-
-</p>
